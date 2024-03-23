@@ -1,1 +1,1 @@
-# Python Programs to print patterns
+# Python Programs to print different patterns
